@@ -1,4 +1,4 @@
-# Learning stuff
+# Learning resources for android
 
 Below you can find best sources I have found during process of learning android.
 
